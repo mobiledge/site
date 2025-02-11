@@ -6,42 +6,23 @@ subtitle: Your experienced iOS development partner
 
 <div class="container">
   
-  <div class="text-center">
-    <h1>👋 Hi, I'm Rabin</h1>
-    <p class="lead">Senior iOS Developer | Swift & SwiftUI Expert | 10+ Years of Experience</p>
-  </div>
-
-  <p>Based in Calgary, I have worked on a variety of high-impact projects, including:</p>
-  
-  <ul>
-    <li>💳 <strong>Capital One</strong> – Secure, scalable banking apps</li>
-    <li>🛒 <strong>Loblaws</strong> – Retail & e-commerce solutions</li>
-    <li>🌾 <strong>Telus Agriculture</strong> – Innovations in AgTech</li>
-  </ul>
+  <p>Hi, I'm Rabin, a Senior iOS Developer based in Calgary with over 10 years of native iOS development experience. I've had the privilege of working on diverse projects, from banking apps at Capital One to retail solutions at Loblaws, and agricultural technology at Telus Agriculture.</p>
+  <p>My expertise lies in creating robust, user-friendly mobile applications using Swift and SwiftUI. I'm passionate about clean architecture, maintainable code, and delivering high-quality solutions that make a real difference for businesses and their users.</p>
 
   <hr>
 
   <h2>💡 My Development Process</h2>
-
-  <div class="card">
     <h3>🔍 Discovery & Planning</h3>
     <p>Understanding your business goals and user needs to create a strategic development plan.</p>
-  </div>
 
-  <div class="card">
     <h3>🎨 Design & Architecture</h3>
     <p>Leveraging <strong>MVVM</strong> and <strong>TCA</strong> for scalable, maintainable solutions.</p>
-  </div>
 
-  <div class="card">
     <h3>⚙️ Development & Testing</h3>
     <p>Building high-performance apps with <strong>Swift, SwiftUI, and UIKit</strong>, ensuring top-notch quality through testing.</p>
-  </div>
 
-  <div class="card">
     <h3>🚀 Deployment & Support</h3>
     <p>Seamless App Store submission and ongoing updates to keep your app future-ready.</p>
-  </div>
 
   <hr>
 
